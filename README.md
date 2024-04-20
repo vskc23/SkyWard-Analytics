@@ -26,3 +26,5 @@ SkyWard Analytics is a comprehensive project aimed at predicting flight delays b
 ### Implementation
 1. **Data Merging:** Successfully merged transportation data with weather and bird strike data to create a comprehensive dataset.
 2. **Repeat Analysis:** Applied the same EDA, preprocessing, feature engineering, modeling, tuning, and evaluation steps to the new combined dataset to assess improvements in predictive accuracy.
+
+## Data for our project: https://drive.google.com/drive/folders/1OOwZQX4MBl-gYb7aWpdKESh3a2qfE7on?usp=drive_link
